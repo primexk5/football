@@ -23,6 +23,6 @@ This is a simple React application that simulates a live football match. Players
 - npm used
 
 ### Deployement
-- 
+- vercel
 
 
